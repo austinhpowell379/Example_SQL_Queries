@@ -1,5 +1,5 @@
 # Example SQL Queries
-This repository contains some example SQL queries that I wrote using MySQL. The databases used are from the MySQL tutorials from "Programming With Mosh".
+This repository contains some example SQL queries that I wrote using MySQL. The databases used are from the MySQL tutorials "Programming With Mosh".
 
 Example Query 1 is a simple query that calculates the total cost of orders and returns the associated customer details. This type of query would be useful to determine which customers are placing the largest orders and who should be targeted by bulk discount promotions.
 
